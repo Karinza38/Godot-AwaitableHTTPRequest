@@ -1,4 +1,4 @@
-<img alt="project icon: syntax-highlighted text reading 'await http dot request'" src="addons/awaitable_http_request/icon.png" width="64">
+ <img alt="project icon: syntax-highlighted text reading 'await http dot request'" src="addons/awaitable_http_request/icon.png" width="64">
 
 ## AwaitableHTTPRequest Node for Godot 4
 
